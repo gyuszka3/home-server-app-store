@@ -4,7 +4,7 @@ category: media
 name: Ombi
 version: "4.44.1"
 tagline: Stream Movies & TV Shows
-icon: https://play-lh.googleusercontent.com/jHsvuF837Wf7AtalMK0AFJDeDXLbwqs281I3z1L-HZveq2jgo5Zrt1PEdXaz2UIG_oJS
+icon: https://i.imgur.com/s3mrPWP.png
 description: >-
   Ombi is a self-hosted web application that automatically gives your shared Plex, Jellyfin or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 developer: Jamie Rees 
@@ -14,9 +14,9 @@ repo: https://github.com/Ombi-app/Ombi
 support: https://ombi.io
 port: 3579
 gallery:
-  - https://imgur.com/KZoHev0
-  - https://imgur.com/NQz4zpv
-  - https://imgur.com/5WhzRUg
+  - https://i.imgur.com/KZoHev0.png
+  - https://i.imgur.com/NQz4zpv.png
+  - https://i.imgur.com/5WhzRUg.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
