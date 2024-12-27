@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: ombi
+category: media
+name: Ombi
+version: "4.44.1"
+tagline: Stream Movies & TV Shows
+description: >-
+  Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
+developer: Jamie Rees 
+website: https://ombi.io
+dependencies: []
+repo: https://github.com/Ombi-app/Ombi
+support: https://ombi.io
+port: 3579
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+permissions: []
+releaseNotes: >-
+  Power users can now set profiles and root folders when requesting (138df1e)
+submitter: Gyorgy Polyanka
+submission: ""

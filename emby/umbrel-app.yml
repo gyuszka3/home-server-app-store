@@ -1,0 +1,41 @@
+manifestVersion: 1
+id: emby
+category: media
+name: Emby
+version: "4.8.10"
+tagline: Stream Movies & TV Shows
+description: >-
+  Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device.
+
+  
+  Enjoy Emby from anywhere! Sit back and enjoy Emby on your TV. Apps for your TV are available for Android TV, Apple TV, Google TV, Amazon Fire TV, Roku, LG Smart TV, Samsung Smart TV and more. 
+
+  
+  Maybe you want to enjoy Emby on the go? You can use Emby on Android, iPhone, iPad, Android Auto, Apple CarPlay. 
+
+  
+  Sometimes you want to access all of your media on your computer and Emby has you covered there as well. With apps for Windows, MacOS, Linux, browsers and more.
+developer: Emby Team
+website: https://emby.media
+dependencies: []
+repo: "https://github.com/MediaBrowser/Emby"
+support: https://emby.media/support/
+port: 8096
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+permissions:
+  - STORAGE_DOWNLOADS
+releaseNotes: >-
+  This is maintenance release, primarily targeting Linux users. Here are the changes:
+
+  Fix hardware transcoding regression on some Linux platforms
+
+  Full release notes are available at https://www.videohelp.com/software/Emby
+submitter: Gyorgy Polyanka
+submission: ""
