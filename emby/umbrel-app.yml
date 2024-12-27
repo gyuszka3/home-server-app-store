@@ -4,6 +4,7 @@ category: media
 name: Emby
 version: "4.8.10"
 tagline: Stream Movies & TV Shows
+icon: https://img.utdstc.com/icon/255/b57/255b57f80ba102f0654ec643c0bce1664290fb758052e68ce021cc9adaeb6e21:200
 description: >-
   Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device.
 
@@ -22,9 +23,9 @@ repo: "https://github.com/MediaBrowser/Emby"
 support: https://emby.media/support/
 port: 8096
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://imgur.com/QU37GuJ
+  - https://imgur.com/HO5eMqk
+  - https://imgur.com/y3KkhPz
 path: ""
 defaultUsername: ""
 defaultPassword: ""
