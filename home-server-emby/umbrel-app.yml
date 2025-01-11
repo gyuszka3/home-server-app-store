@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: emby
+id: home-server-emby
 category: media
 name: Emby
 version: "4.8.10"
