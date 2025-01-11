@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: ombi
+id: home-server-ombi
 category: media
 name: Ombi
 version: "4.44.1"
